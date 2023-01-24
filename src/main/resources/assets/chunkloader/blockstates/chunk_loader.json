@@ -1,0 +1,6 @@
+{
+    "variants": {
+      "powered=false": { "model": "chunkloader:block/chunk_loader" },
+      "powered=true": { "model": "chunkloader:block/chunk_loader_powered" }
+    }
+}
